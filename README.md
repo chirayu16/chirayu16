@@ -1,5 +1,6 @@
 # 💫 About Me:
 Hi, I am Chirayu
+Aspiring Frontend Engineer
 
 
 ## 🌐 Socials:
